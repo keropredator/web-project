@@ -213,6 +213,7 @@ nav li:first-child {
   color: #adadad;
   line-height: 57px;
 }
+
 .input-box input:focus ~ label,
 .input-box input:valid ~ label {
   top: -5px;
